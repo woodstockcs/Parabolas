@@ -39,3 +39,5 @@
     </td>
   </tr>
 </table>
+
+<em>a collaborative project between students in Mrs. Vonada's Algebra 2 class and Mr. Smith's Computer Programming H Block class</em>
