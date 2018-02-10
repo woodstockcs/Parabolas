@@ -82,7 +82,7 @@
   <!-- from alexfrenchman account on github-->
   <tr>
    <td>
-      <a href="http://alpha.editor.p5js.org/full/SJZahDiIM">7</a>
+      <a href="http://alpha.editor.p5js.org/full/SJZahDiIM">8</a>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/woodstockcs/Parabolas/master/source-images/IMG_0331.JPG" width="100">
@@ -94,20 +94,19 @@
   <!-- from fallingchildren account on p5js-->
   <tr>
    <td>
-      <a href="http://alpha.editor.p5js.org/full/r1Jp2vsLz">7</a>
+      <a href="http://alpha.editor.p5js.org/full/r1Jp2vsLz">9</a>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/woodstockcs/Parabolas/master/source-images/image1.JPG" width="100">
     </td>
   </tr>
   <!-- END NEW ROW -->  
-</table>
 
   <!-- START NEW ROW -->
   <!-- from GreatnessAwaits account on p5js-->
   <tr>
    <td>
-      <a href="http://alpha.editor.p5js.org/full/Byv_2Pi8M">7</a>
+      <a href="http://alpha.editor.p5js.org/full/Byv_2Pi8M">10</a>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/woodstockcs/Parabolas/master/source-images/IMG_0327.JPG" width="100">
