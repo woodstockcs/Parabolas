@@ -1,4 +1,5 @@
-# Vonada Parabolas
+
+## Vonada Parabolas
 <table>
   <tr>
    <td>
@@ -41,7 +42,7 @@
   </tr>
 </table>
 
-# Gulian Parabolas
+## Gulian Parabolas
 <table>
   <tr>
    <td>
