@@ -1,5 +1,3 @@
-
-## Vonada Parabolas
 <table>
   <tr>
    <td>
@@ -38,61 +36,6 @@
   <tr>
    <td>
       <a href="http://alpha.editor.p5js.org/full/By2woYiIG">11</a>
-    </td>
-  </tr>
-</table>
-
-## Gulian Parabolas
-<table>
-  <tr>
-   <td>
-      <!-- <a href="">1</a> -->
-    </td>
-   <td>
-      <!-- <a href="">2</a> -->
-    </td>
-   <td>
-      <!-- <a href="">3</a> -->
-    </td>
-   <td>
-      <!-- <a href="">4</a> -->
-    </td>
-   <td>
-      <!-- <a href="">5</a> -->
-    </td>
-  </tr>
-  <tr>
-   <td>
-      <!-- <a href="">1</a> -->
-    </td>
-   <td>
-      <!-- <a href="">2</a> -->
-    </td>
-   <td>
-      <!-- <a href="">3</a> -->
-    </td>
-   <td>
-      <!-- <a href="">4</a> -->
-    </td>
-   <td>
-      <!-- <a href="">5</a> -->
-    </td>
-  </tr>
-  <tr>
-   <td>
-      <!-- <a href="">1</a> -->
-    </td>
-   <td>
-      <!-- <a href="">2</a> -->
-    </td>
-   <td>
-      <!-- <a href="">3</a> -->
-    </td>
-   <td>
-      <!-- <a href="">4</a> -->
-    </td>
-   <td>
-      <!-- <a href="">5</a> -->
     </td>
   </tr>
 </table>
